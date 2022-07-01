@@ -9,5 +9,5 @@ Routing
 Form controlled component
 
 ### Check it out
-https://62bf3e6431de8d196053bebb--dancing-shortbread-ac847d.netlify.app/about 
+https://62bf3e6431de8d196053bebb--dancing-shortbread-ac847d.netlify.app/
 - > It isn't pretty, but it isnt supposed to be. 
